@@ -52,6 +52,6 @@ Starting from starter code, this challenge required writing additional code to d
 ## Link to Project & Screenshot
 ![budget-tracker Screenshot)](/public/assets/images/applicationImage.png)
 [Click here to view the project on GitHub!](https://github.com/rpodols/budget-tracker-pwa)
-[Click here to view the deployed project on Heroku!](HEROKU)
+[Click here to view the deployed project on Heroku!](https://whispering-woodland-35017.herokuapp.com)
 
 
